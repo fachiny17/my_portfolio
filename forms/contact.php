@@ -38,4 +38,8 @@
   $contact->add_message( $_POST['message'], 'Message', 10);
 
   echo $contact->send();
+} else {
+  http_response_code(405);
+  echo 'Method Not Allowed';
+}
 ?>
