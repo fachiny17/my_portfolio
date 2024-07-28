@@ -1,3 +1,3 @@
-Hello! I am Iheani, Favour Chisom
+Hello! I am Iheanyi, Favour Chisom
 
 This is my portolio website.
